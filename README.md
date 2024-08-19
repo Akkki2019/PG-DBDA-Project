@@ -98,6 +98,6 @@ Contributions are welcome! Feel free to fork this repository and submit a pull r
 
 **Contact**
 
-For any questions or feedback, please reach out to Alkesh Lajurkar.
+For any questions or feedback, please reach out to Akash Kshirsagar.
 
 ---
